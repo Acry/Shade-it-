@@ -4,7 +4,7 @@ Start with shader hash to autodownload json and assets.
 `./shade_it 4dKfDV`  
 Drag and Drop from Shadertoy.com.
 Drag and Drop json from assets/glsl/st/  
-Stores json and screenshots in asstes folder.  
+Stores json and screenshots in assets folder.  
 
 Middle mouse button to switch shader.  
 Press n to create new shader, will open in Editor  
