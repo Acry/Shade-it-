@@ -8,8 +8,8 @@ Stores json and screenshots in assets folder.
 
 Middle mouse button to switch shader.  
 Press n to create new shader, will open in Editor  
-if file is changed and saved it should autocompile, press c to manually.  
-adjust your edit before compiling:  
+If file is changed and saved it should autocompile, press c to do that manually.  
+Adjust your editor before compiling:  
 `#define EDITOR	 "/usr/bin/kate"`  
 P to toggle rendering/pause.  
 S to override screenshot.  
