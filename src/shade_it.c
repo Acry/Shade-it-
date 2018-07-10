@@ -84,7 +84,7 @@ int fontBold 	= FONS_INVALID;
 float dx = 40, dy = 40;
 unsigned int white;
 unsigned int black;
-//BEGIN FONTSTASH
+//END 	FONTSTASH
 
 //inotify and epoll
 int wd, fd, efd, cfg;
@@ -1551,4 +1551,4 @@ char * get_shader_shorthash(char *url)
 
 //END 	MISC
 
-//END FUNCTIONS
+//END 	FUNCTIONS
